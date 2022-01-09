@@ -1,0 +1,24 @@
+storing 
+organizing
+managing critical health statics such as;
+lab 
+finances 
+billing and payments 
+patient identification 
+need in-depth health data quickly and without error.
+https://www.dnsstuff.com/how-important-database-healthcare
+
+
+
+more types of data in a hospital:
+Electronic health record: Includes administrative and demographic information, diagnosis,
+			  treatment, prescription drugs, laboraotary tests, physiologic monitoring data,
+			  hospitalization, patient insurance. (acess only to internal staff).
+
+Administartive data: primarily hospital dicharge data reported to a government agency.
+
+Patient/Disease regsitries: clinical information systems that track a narrow range of key data for certain chronic conditions such as cancer, diabetes, 
+				heart diseases and asthma.
+https://guides.lib.uw.edu/hsl/data/findclin
+
+
